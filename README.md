@@ -1,7 +1,6 @@
 <a id="readme-top"></a>
 # About This Project
 
-[![Banner Photo][banner-photo]](https://www.st.com/)
 A custom STM32F103C8T6 PCB template designed for hand-soldering, prototyping, and embedded system development.
 This board serves as a solid starting point for STM32-based projects, robotics systems, and embedded applications.
 
@@ -84,8 +83,3 @@ I'm always interested in collaborating on embedded systems projects, robotics co
 ---
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[banner-photo]: images/banner.jpg
