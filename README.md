@@ -6,6 +6,14 @@ This board serves as a solid starting point for STM32-based projects, robotics s
 
 ---
 
+# 📟 Board Preview
+
+![schematic](/images/schematic.png)
+![layout](/images/layout.png)
+![[pcb]](/images/pcb.png)
+
+---
+
 # 📁 File Structure
 
 <!-- TREEVIEW START -->
